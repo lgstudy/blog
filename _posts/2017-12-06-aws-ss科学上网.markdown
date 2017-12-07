@@ -24,4 +24,8 @@ tags:
   github上有shawdowsocks服务端程序，shawdowsocks服务端程序有多个版本，我装的是python版本。[wiki链接](https://github.com/shadowsocks/shadowsocks/wiki/Shadowsocks-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 - shawdowsocks客户端程序
   我只实验过pc端和iphone,ipad。pc端用 [这个](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)。 iphone,ipad，推荐SsrConnectPro(appstore里面有)。
-
+# 费用 #
+12个月的免费套餐包含：
+- 云主机每月750小时，够用一个月。注意是一台机器哦，如果有2台机器，算的是2台机器的使用总时间。
+- 15G流量，这个是出站流量，超出要收费。收费标准：[https://aws.amazon.com/cn/ec2/pricing/on-demand/](https://aws.amazon.com/cn/ec2/pricing/on-demand/)
+- 所以需要关注下流量，设置好安全组，只允许自己的ip访问，不然可能被盗刷流量，那样计费是很贵的！！千万注意。
